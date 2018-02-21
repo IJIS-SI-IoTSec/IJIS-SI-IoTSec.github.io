@@ -1,7 +1,7 @@
 **Call for Papers**
 
 ## Springer International Journal of Information Security 
-(https://link.springer.com/journal/10207)
+[https://link.springer.com/journal/10207](https://link.springer.com/journal/10207)
 ## Special Issue on "IoT Security and Privacy"
 
 The Internet is gradually transforming from a communication platform for conventional IT appliances into the Internet of Things (IoT), increasingly interconnecting many assorted devices and sensors. These devices are generally referred as IoT devices, and many of them are inexpensive and can be constrained in terms of energy, bandwidth and memory. The establishment of IoT ecosystems in various domains is bringing multiple benefits to human users and companies alike. Example of such domains include Smart Homes, Smart Cities, the Industrial Internet and even Intelligent Transportation Systems. However, the IoT as a whole – including related paradigms such as Machine-to-Machine (M2M) and Cyber-Physical Systems (CPS) – is susceptible to a multitude of threats. In fact, many IoT devices currently are insecure and have many security vulnerabilities. For example, many vulnerable IoT devices which have been infected with malware have subsequently become comprised into large botnets, resulting in devastating  DDOS attacks. Consequently, ensuring the security of such IoT ecosystems – before, during, and after an attack takes place – is a crucial issue for our society at this moment. 
@@ -26,7 +26,7 @@ Topics include but are not limited to:
 
 ### Submission Guidelines 
 
-Authors should prepare their manuscripts according to the "Instructions for Authors" guidelines outlined at the journal website (http://www.springer.com/computer/security+and+cryptology/journal/10207)
+Authors should prepare their manuscripts according to the "Instructions for Authors" guidelines outlined at the journal website: [http://www.springer.com/computer/security+and+cryptology/journal/10207](http://www.springer.com/computer/security+and+cryptology/journal/10207)
 
 All papers will be peer-reviewed, by following a regular reviewing procedure. 
 
