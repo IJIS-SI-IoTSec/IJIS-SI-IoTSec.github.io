@@ -51,4 +51,4 @@ Bilhanan Silverajan, Tampere University of Technology, Finland
 
 Said Tabet, EMC Corporation, USA
 
-For more information, contact editors-ijis-si-iotsec (at) googlegroups dot com
+For more information, contact: editors-ijis-si-iotsec (at) googlegroups dot com
