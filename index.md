@@ -49,6 +49,6 @@ Ryan Ko, University of Waikato, New Zealand
 
 Bilhanan Silverajan, Tampere University of Technology, Finland 
 
-Said Tabet, EMC Corporation, USA
+Said Tabet, Dell EMC, USA
 
 For more information, contact: editors-ijis-si-iotsec (at) googlegroups dot com
