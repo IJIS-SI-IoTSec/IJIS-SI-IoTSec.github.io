@@ -28,6 +28,8 @@ Topics include but are not limited to:
 
 Authors should prepare their manuscripts according to the "Instructions for Authors" guidelines outlined at the journal website: [http://www.springer.com/computer/security+and+cryptology/journal/10207](http://www.springer.com/computer/security+and+cryptology/journal/10207)
 
+Note that the journal sets no page limit, although we encourage authors to keep their submissions to a length that's in the ballpark of the accepted articles (unless there are special reasons to submit something longer), i.e., less than 30 pages, in order to expedite the review process.
+
 All papers will be peer-reviewed, by following a regular reviewing procedure. 
 
 Authors are requested to submit their original manuscript via the online submission system. Note that article type 'S.I. : IOT Security and Privacy' must be selected on the system in order to be considered for this special issue. 
