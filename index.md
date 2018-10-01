@@ -37,9 +37,9 @@ Authors are requested to submit their original manuscript via the online submiss
 
 ### Important Dates 
 
-Manuscript Due: October 1, 2018
+Manuscript Due: ~~October 1, 2018~~ October 19, 2018
 
-First Round of Reviews: December 3, 2018 
+First Round of Reviews: ~~December 3, 2018~~ December 21, 2018
 
 ### Guest Editors 
 
